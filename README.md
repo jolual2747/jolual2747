@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Alcocer</h1>
 <h3 align="center">A passionate Data Scientist and future Machine Learning Engineer.</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning and MLOps**
 
-- 🌱 I’m currently learning **FastAPI, Spark, MLOps, transformers and LLMs**
+- 🌱 I’m currently using in my projects: **FastAPI, Spark, MLOps, transformers and LLMs**
 
 - 👯 I’m looking to collaborate on **MLOps projects**
 
