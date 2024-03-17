@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Alcocer</h1>
-<h3 align="center">A passionate Data Scientist and future Machine Learning Engineer.</h3>
+<h3 align="center">A passionate Machine Learning Engineer.</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and MLOps**
 
