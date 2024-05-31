@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jolual2747?tab=repositories](https://github.com/jolual2747?tab=repositories)
 
-- 💬 Ask me about **Supervised and Unsupervised learning methods, productionize ML models, data-driven solutions to hard problems**
+- 💬 Ask me about **ML & AI, productionize ML models, MLOps and data-driven solutions**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/josealcocer2747/](https://www.linkedin.com/in/josealcocer2747/)
 
