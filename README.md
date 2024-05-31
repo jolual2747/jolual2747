@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Alcocer</h1>
 <h3 align="center">A passionate Machine Learning Engineer.</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Artificial Intelligence and MLOps**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Artificial Intelligence, MLOps, Backend Development, DevOps**
 
 - 🌱 I’m currently using in my projects: **FastAPI, Spark, MLOps, LangChain, transformers, NLP, LLMs and Computer Vision**
 
